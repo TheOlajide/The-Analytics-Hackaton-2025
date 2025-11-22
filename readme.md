@@ -106,8 +106,11 @@ git clone https://github.com/TheOlajide/The-Analytics-Hackaton-2025.git
 
 
 ## Dashboard Preview
-![AdventureWorks_Dashboard](report/Olajide_Abdullateef_Analytics_Dashboard_report.pdf)
-![AdventureWorks_Visuals](visuals)
+- [AdventureWorks_Dashboard](report/Olajide_Abdullateef_Analytics_Dashboard_report.pdf)
+
+- [AdventureWorks_Visuals](visuals)
+
+- click [here](https://app.powerbi.com/view?r=eyJrIjoiM2ZmZDI1NzEtNGZiYi00OWU4LTkxOWQtYzc2NGMwMThkZjBjIiwidCI6ImU0ZjcyZThjLTZiZjUtNGZmZS1iZjFlLWY4YWY0MzM1MDNiMyIsImMiOjh9) to interact with live dashboard.
 
 
 ## Contact
