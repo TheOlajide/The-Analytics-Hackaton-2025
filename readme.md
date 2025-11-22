@@ -45,11 +45,11 @@ This project uses a combination of these tables to build a clean, analysis-ready
 
 ## Key Insights Discovered
 
-Below are sample insights uncovered in this analysis (actual figures may vary depending on filters and time ranges):
+Below are some insights uncovered in this analysis (actual figures may vary depending on filters and time ranges):
 
-- Revenue is dominated by a small set of product categories, especially Bikes, which contribute over ~56% of total orders.
+- Revenue is dominated by a small set of product categories, especially Bikes, which also contribute over ~56% of total orders.
 
-- The U.S. territory is the strongest performer, with the highest order volume and returning customer segment.
+- The U.S. territory is the strongest performer, with the highest order volume and revenue.
 
 - Top ten customers contribute less significantly in percentage to total revenue, revealing potential for more customer acquisition.
 
@@ -57,11 +57,11 @@ Below are sample insights uncovered in this analysis (actual figures may vary de
 Each insight is supported with SQL queries, DAX measures, and visual evidence.
 
 ## Tools & Technologies Used
-Tool	                                            Purpose
-1. SQL Server	            Data extraction, cleaning, joins, and exploration
-2. Power BI                	Data modeling, relationships, DAX calculations, dashboard creation
-3. DAX Measures	            Building KPIs such as Revenue, Profit, AOV, Returning Customers
-4. GitHub                   Version control and documentation
+Tools
+1. SQL Server - Data extraction, cleaning, joins, and exploration
+2. Power BI - Data modeling, relationships, DAX calculations, dashboard creation
+3. DAX Measures	- Building KPIs such as Revenue, Profit, AOV, Returning Customers
+4. GitHub - Version control and documentation
 
 
 ## Project Structure
@@ -86,7 +86,7 @@ Tool	                                            Purpose
 |   |- read_data.py
 |
 |- visuals/
-|
+|  
 |- README.md
 
 ```
@@ -110,12 +110,12 @@ git clone https://github.com/TheOlajide/The-Analytics-Hackaton-2025.git
 
 - [AdventureWorks_Visuals](visuals)
 
-- click [here](https://app.powerbi.com/view?r=eyJrIjoiM2ZmZDI1NzEtNGZiYi00OWU4LTkxOWQtYzc2NGMwMThkZjBjIiwidCI6ImU0ZjcyZThjLTZiZjUtNGZmZS1iZjFlLWY4YWY0MzM1MDNiMyIsImMiOjh9) to interact with live dashboard.
+- Click [here](https://app.powerbi.com/view?r=eyJrIjoiM2ZmZDI1NzEtNGZiYi00OWU4LTkxOWQtYzc2NGMwMThkZjBjIiwidCI6ImU0ZjcyZThjLTZiZjUtNGZmZS1iZjFlLWY4YWY0MzM1MDNiMyIsImMiOjh9) to interact with live dashboard.
 
 
 ## Contact
 
-For questions, collaboration, or feedback, reach out:
+For questions/feedback or collaboration, reach out:
 
 - Email: olajideabdullateef@gmail.com
 
