@@ -10,7 +10,7 @@ The project uses SQL for exploration, Power BI for modeling and visualization, a
 
 This analysis focuses on four main objectives:
 
-1. Explore and analyze all key AdventureWorks tables (Sales, Products, Customers, Territories, Resellers).
+1. Explore and analyze all key AdventureWorks tables (Sales, Products, Customers, Territories).
 
 2. Identify five (5) high-quality, business-relevant insights, each backed by data.
 
@@ -29,9 +29,9 @@ This analysis focuses on four main objectives:
 
 The AdventureWorks dataset includes several relational tables such as:
 
-- Sales.SalesOrderHeader – order details, revenue, status, dates
+- Sales.SalesOrderHeader – order details, revenue, customerID, dates etc
 
-- Sales.SalesOrderDetail – line items, quantity, unit price
+- Sales.SalesOrderDetail – orderID, quantity, unit price etc
 
 - Production.Product & ProductCategory – product attributes
 
