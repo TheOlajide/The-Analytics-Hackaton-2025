@@ -64,7 +64,9 @@ Tool	                                            Purpose
 4. GitHub                   Version control and documentation
 
 
-📁 Project Structure
+## Project Structure
+
+```
 |- raw_data/
 |   |- HumanResources_Employee.csv
 |   |- Person_Person.csv
@@ -87,13 +89,14 @@ Tool	                                            Purpose
 |
 |- README.md
 
+```
 
 
 ## How to Use This Repository
 
 1. Clone the repository:
 
-git clone https://github.com/yourusername/AdventureWorks-Analysis.git
+git clone https://github.com/TheOlajide/The-Analytics-Hackaton-2025.git
 
 
 2. Open the SQL scripts to explore or run queries against your AdventureWorks database.
@@ -103,13 +106,14 @@ git clone https://github.com/yourusername/AdventureWorks-Analysis.git
 
 
 ## Dashboard Preview
-![AdventureWorks Dashboard](report/Olajide_Abdullateef_Analytics_Dashboard_report.pdf)
-![AdventureWorks Dashboard](visuals)
+![AdventureWorks_Dashboard](report/Olajide_Abdullateef_Analytics_Dashboard_report.pdf)
+![AdventureWorks_Visuals](visuals)
 
 
 ## Contact
 
 For questions, collaboration, or feedback, reach out:
-Email: olajideabdullateef@gmail.com
 
-LinkedIn: www.linkedin.com/in/olajideabdullateef
+- Email: olajideabdullateef@gmail.com
+
+- LinkedIn: www.linkedin.com/in/olajideabdullateef
