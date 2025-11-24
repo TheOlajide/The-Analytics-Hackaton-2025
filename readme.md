@@ -98,7 +98,7 @@ Tools
 
 git clone https://github.com/TheOlajide/The-Analytics-Hackaton-2025.git
 
-2. Run the [pandas_code](scripts\read_data.py) to obtain the needed tables into your local computer.
+2. Run the [pandas_code](scripts/read_data.py) to obtain the needed data tables into your local computer.
 
 3. Open the SQL [scripts](scripts/queries.sql) to explore or run queries against your AdventureWorks database.
 
