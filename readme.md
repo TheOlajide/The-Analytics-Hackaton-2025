@@ -99,9 +99,11 @@ Tools
 git clone https://github.com/TheOlajide/The-Analytics-Hackaton-2025.git
 
 
-2. Open the SQL scripts to explore or run queries against your AdventureWorks database.
+2. Open the SQL [scripts](scripts/) to explore or run queries against your AdventureWorks database.
 
-3. Open the .pbix file in Power BI Desktop to view or customize the dashboard.
+3. Open the [.pbix](report/Olajide_Abdullateef_Analytics_Hackaton_Powerbi_Report.pbix) file in Power BI Desktop to view or customize the dashboard.
+
+4. Open [project_report](report/Olajide_Abdullateef_Analytics_Hackaton_Project_Report.pdf) file in the report folder to read full report on this project.
 
 
 
