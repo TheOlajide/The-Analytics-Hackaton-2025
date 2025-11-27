@@ -1,4 +1,17 @@
 # AdventureWorks Sales, Customer & Product Analysis
+
+## Table Of Content
+
+- [Project Overview](#project-overview)
+- [Project Goals](#project-goals)
+- [Dataset Description](#dataset-description)
+- [Key Insights Discovered](#key-insights-discovered)
+- [Tools & Technologies Used](#tools--technologies-used)
+- [Project Structure](#project-structure)
+- [How to Use This Repository](#how-to-use-this-repository)
+- [Dashboard Preview](#dashboard-preview)
+- [Contact](#contact)
+
 ## Project Overview
 
 This project provides an end-to-end analysis of the AdventureWorks dataset, a fictional manufacturing company that sells bicycles and related accessories through online and reseller channels.
@@ -113,7 +126,7 @@ git clone https://github.com/TheOlajide/The-Analytics-Hackaton-2025.git
 
 - [AdventureWorks_Visuals](visuals)
 
-- Click [here](https://app.powerbi.com/view?r=eyJrIjoiM2ZmZDI1NzEtNGZiYi00OWU4LTkxOWQtYzc2NGMwMThkZjBjIiwidCI6ImU0ZjcyZThjLTZiZjUtNGZmZS1iZjFlLWY4YWY0MzM1MDNiMyIsImMiOjh9) to interact with live dashboard.
+- Click [here](https://app.powerbi.com/view?r=eyJrIjoiZTMwYjRhNjItN2JmNC00ODVhLWE0YjUtNzhkNTg1NWJkODdhIiwidCI6ImU0ZjcyZThjLTZiZjUtNGZmZS1iZjFlLWY4YWY0MzM1MDNiMyIsImMiOjh9) to interact with live dashboard.
 
 
 ## Contact
