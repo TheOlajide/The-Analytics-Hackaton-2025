@@ -122,7 +122,7 @@ git clone https://github.com/TheOlajide/The-Analytics-Hackaton-2025.git
 
 
 ## Dashboard Preview
-- [AdventureWorks_Dashboard](report\Olajide_Abdullateef_Analytics_Hackaton_Powerbi_Report.pdf)
+- [AdventureWorks_Dashboard](report/Olajide_Abdullateef_Analytics_Hackaton_Powerbi_Report.pdf)
 
 - [AdventureWorks_Visuals](visuals)
 
