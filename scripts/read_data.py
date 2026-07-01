@@ -3,8 +3,8 @@ from sqlalchemy import create_engine, inspect
 from urllib.parse import quote_plus
 
 # ---------- Configuration ----------
-SERVER = r"THEOLAJIDE"   # your SQL Server instance
-DATABASE = "AdventureWorks2019"         # database name
+SERVER = r"THEOLAJIDE"                            # SQL Server instance
+DATABASE = "AdventureWorks2019"                   # database name
 DRIVER = "ODBC Driver 17 for SQL Server"
 
 # Tables to export
